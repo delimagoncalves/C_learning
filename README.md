@@ -1,2 +1,8 @@
 # C_learning
-Exemplos de códigos na Linguagem C
+Exemplos de código na Linguagem C
+
+# Ambiente utilizado
+Ubuntu Linux
+
+# Compilador
+gcc version 10.3.0
